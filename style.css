@@ -8,9 +8,9 @@ body  {
 
 header {
 	font-size: 2.5rem;
-	border-bottom: inset 2px #e716d6;
+	border-bottom: inset 2px #d42a8d;
 	padding: 20px;
-	color: #ff87cb;
+	color: #b04684;
 	text-align: center;
 }
 
@@ -26,7 +26,7 @@ p {
 }
 
 section {
-	background-color: #7faed1;
+	background-color: #fc97d3;
 	padding-top: 80px ;
 	padding-bottom: 80px;
 	display: flex;
